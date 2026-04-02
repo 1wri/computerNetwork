@@ -21,10 +21,3 @@
 
 
 ![1.jpg](imgs%2F1.jpg)
-![4.jpg](imgs%2F4.jpg)
-
-![2.jpg](imgs%2F2.jpg)
-![3.jpg](imgs%2F3.jpg)
-![6.jpg](imgs%2F6.jpg)
-![5.jpg](imgs%2F5.jpg)
-![7.jpg](imgs%2F7.jpg)
